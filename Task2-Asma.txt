@@ -1,0 +1,13 @@
+Project: EventEase (Event Management System)
+ Executive Summary - Task 2 Contribution
+
+Submitted by: Asma
+Role: Full Stack Developer (MERN)
+
+ Project Overview:
+EventEase is a digital platform designed to simplify event planning. It allows users to browse vendor profiles, check availability, and manage bookings seamlessly.
+
+ My Contribution for Task 2:
+1. GitHub Workflow:Successfully cloned the repository and established the collaboration bridge.
+2. Environment Setup: Configured the local development environment using Vite and React.
+3. Version Control: Demonstrated the ability to push changes and manage commits in a group environment.
